@@ -1,0 +1,13 @@
+﻿Part,Manufacturer,Part Number,Quantity,Price ($),Footprint (mm²),Description
+Css,MuRata,GRM033R71A822KA01D,1,0.01,2.08,Cap: 8.2 nF  Total Derated Cap: 8.2 nF  VDC: 10 V  ESR: 1 mΩ  Package: 0201  
+Ccomp2,Samsung Electro-Mechanics,CL21C470JBANNNC,1,0.01,6.75,Cap: 47 pF  Total Derated Cap: 47 pF  VDC: 50 V  ESR: 0 Ω  Package: 0805  
+U1,Texas Instruments,TPS54332DDAR,1,0.699,55.2,
+Rfbb,Vishay-Dale,CRCW04021K91FKED,1,0.01,3,Resistance: 1.91 kΩ  Tolerance: 1.0%  Power: 63 mW  
+Cboot,MuRata,GRM155R71A104KA01D,1,0.01,3,Cap: 100 nF  Total Derated Cap: 100 nF  VDC: 10 V  ESR: 1 mΩ  Package: 0402  
+Cin,TDK,C3225X7R1H106M250AC,2,0.28,14.7,Cap: 10 µF  Total Derated Cap: 13 µF  VDC: 50 V  ESR: 1 mΩ  Package: 1210  
+L1,Bourns,SDR1005-4R7ML,1,0.32,176.4,L: 4.7 µH  DCR: 19 mΩ  IDC: 4.5 A  
+Rfbt,Vishay-Dale,CRCW040210K2FKED,1,0.01,3,Resistance: 10.2 kΩ  Tolerance: 1.0%  Power: 63 mW  
+Cout,TDK,C4532X5R1A476M280KA,1,0.47,23.1,Cap: 47 µF  Total Derated Cap: 36 µF  VDC: 10 V  ESR: 4.53 mΩ  Package: 1812  
+D1,SMC Diode Solutions,SBRD10200TR,1,0.12,101.71,Type: Schottky  VRRM: 200 V  Io: 10 A  
+Ccomp,MuRata,GRM1555C1H102JA01J,1,0.01,3,Cap: 1 nF  Total Derated Cap: 1 nF  VDC: 50 V  ESR: 0 Ω  Package: 0402  
+Rcomp,Vishay-Dale,CRCW040218K2FKED,1,0.01,3,Resistance: 18.2 kΩ  Tolerance: 1.0%  Power: 63 mW  
